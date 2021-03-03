@@ -1,1 +1,1 @@
-# SJR_Revenue_Analysis
+# This repository contains anlayses related to SJR's average revenue per customer in the Wireless and Wireline segments. It also contains data visualizations of revenue, segmented revenue, and customer groups over time. The analyses use time-series data (quarterly frequency) to forecast forward revenue. A training set and test set are used for forecasting model selection where the test set includes the four most recent quarters as of 3/3/21. A .py and .ipynb are provided as well as hand collected data from 10-Q's and 10-K's. 
